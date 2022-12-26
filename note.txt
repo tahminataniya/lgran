@@ -1,0 +1,98 @@
+nipro psd:
+html,css,boostrap,js
+
+font-family:----
+font-family: 'Overpass', sans-serif;
+
+Thin 100
+ExtraLight 200
+Regular 400
+Light 300
+
+font-family: 'Chivo', sans-serif;
+Light 300
+Regular 400
+bold   700
+font-family: 'Atma', cursive;
+
+
+
+fontawsam-
+
+color:-----
+white:  #ffffff
+black: 
+asah:  #535352
+yello:  #ffc901
+
+
+padding:---------
+header:
+        xxl/xl/lg           md            sm/col
+                   
+slider:
+                       
+
+feature:
+          
+ 
+
+
+
+font-size:-----
+      xxl/xl/lg            md             sm/col
+header:
+logo-100%                 90%             80/70%
+menu-22px                 20px            18px/16px   
+
+banner:
+         
+
+
+feature:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ banner--
+ h1- tahmina taniya
+ h4- A professional full stack web developer
+ social icon
+
+ about
+ who am i?
+
+
+ my skils
+ why choose me
+
+
+ global fonts
+ -playfair display(weight-400, 500, 600, 700)
+
+ h1,h2-600  48px   -38px - 30px
+ h3,h4- 500 34px   -24px   -20px
+ p- 400  16px
+
+ global color
+  primary-  #B91646
+  secondery- #4A403A
+
+  text  - #FBF3E4
+  ACCENT- #105652
+  TEXT2-  #1F1D36
+
+  #150050
